@@ -1,4 +1,4 @@
 RedRoma, Inc.
 ==========================
 
-[<img src="Assets/RedRoma-Logo.png" width = "400">](https://redroma.tech/)
+[<img src="Assets/RedRoma-Logo.png" width = "500">](https://redroma.tech/)
