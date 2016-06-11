@@ -1,0 +1,43 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 560.5000000000001px;
+		padding-bottom: 39.499999999999886px;
+		max-width: 960px;
+	}
+
+	#u201-4
+	{
+		font-size: 60px;
+		line-height: 72px;
+		width: 71.78%;
+		margin-left: 14.17%;
+	}
+
+	#u194
+	{
+		margin-top: 10px;
+		width: 41.46%;
+		margin-left: 29.28%;
+	}
+
+	#u205-4
+	{
+		min-height: 32px;
+		font-size: 36px;
+		line-height: 43px;
+		margin-top: 38px;
+		width: 71.78%;
+		margin-left: 14.17%;
+	}
+
+
