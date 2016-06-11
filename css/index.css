@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000013;
-	background-color: #3D377A;
+	color: #000019;
+	background-color: #17881A;
 }
 
 @font-face
@@ -26,7 +26,6 @@
 {
 	z-index: 1;
 	border-color: #000000;
-	padding-bottom: 20px;
 	background-image: none;
 	padding-top: 62px;
 	border-width: 0px;
@@ -107,6 +106,7 @@ body
 	#page
 	{
 		min-height: 611px;
+		padding-bottom: 20px;
 		max-width: 960px;
 	}
 
@@ -152,6 +152,7 @@ body
 	#page
 	{
 		min-height: 580px;
+		padding-bottom: 20px;
 		max-width: 640px;
 	}
 
@@ -196,7 +197,8 @@ body
 
 	#page
 	{
-		min-height: 580px;
+		min-height: 552.5166666666668px;
+		padding-bottom: 23.483333333333235px;
 		max-width: 480px;
 	}
 
@@ -210,7 +212,7 @@ body
 
 	#u194
 	{
-		margin-top: 53px;
+		margin-top: 40px;
 		width: 79.17%;
 		margin-left: 10.42%;
 	}
@@ -220,7 +222,7 @@ body
 		min-height: 32px;
 		font-size: 30px;
 		line-height: 36px;
-		margin-top: 53px;
+		margin-top: 39px;
 		width: 71.88%;
 		margin-left: 14.17%;
 	}
@@ -241,7 +243,8 @@ body
 
 	#page
 	{
-		min-height: 510px;
+		min-height: 491px;
+		padding-bottom: 20px;
 		max-width: 378px;
 	}
 
@@ -255,7 +258,7 @@ body
 
 	#u194
 	{
-		margin-top: 45px;
+		margin-top: 30px;
 		width: 87.31%;
 		margin-left: 6.35%;
 	}
@@ -265,7 +268,7 @@ body
 		min-height: 32px;
 		font-size: 22px;
 		line-height: 26px;
-		margin-top: 45px;
+		margin-top: 41px;
 		width: 71.7%;
 		margin-left: 14.03%;
 	}
@@ -290,7 +293,8 @@ body
 
 	#page
 	{
-		min-height: 404px;
+		min-height: 390px;
+		padding-bottom: 20px;
 		max-width: 320px;
 	}
 
@@ -304,7 +308,7 @@ body
 
 	#u194
 	{
-		margin-top: 42px;
+		margin-top: 35px;
 		width: 75%;
 		margin-left: 12.5%;
 	}
@@ -314,7 +318,7 @@ body
 		min-height: 32px;
 		font-size: 22px;
 		line-height: 26px;
-		margin-top: 42px;
+		margin-top: 35px;
 		width: 71.88%;
 		margin-left: 14.07%;
 	}

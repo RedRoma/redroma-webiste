@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1465630147077">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1465630250110">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="322779002" ref="index"/>
-    <file name="nomq_index.css" crc="3850534559" ref="index"/>
+    <file name="index.css" crc="420972570" ref="index"/>
+    <file name="nomq_index.css" crc="389388525" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -26,5 +26,5 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="black canvas-01_poster_u312.png" crc="4005810879" ref="index"/>
   </folder>
-  <file name="index.html" crc="353728786" seo="true" mt="1465630139040" redirect="true"/>
+  <file name="index.html" crc="353728786" seo="true" mt="1465630237804" redirect="true"/>
 </manifest>
