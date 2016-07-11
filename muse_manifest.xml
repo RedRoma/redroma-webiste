@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1465630250110">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1468219793624">
   <folder name="css">
-    <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="420972570" ref="index"/>
-    <file name="nomq_index.css" crc="389388525" ref="index"/>
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="469464530" ref="index"/>
+    <file name="nomq_index.css" crc="297622675" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -13,18 +13,20 @@
     <file name="marcellus-v4-latin-regular.svg" crc="3849965040"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="redroma-insignia.svg" crc="257097538" ref="index"/>
-    <file name="redroma-insignia_poster_.png" crc="93759053" ref="index"/>
     <file name="black canvas-01.svg" crc="68001098" ref="index"/>
+    <file name="black canvas-01_poster_u329.png" crc="130515656" ref="index"/>
+    <file name="redroma-insignia.svg" crc="257097538" seo="true" ref="index"/>
+    <file name="redroma-insignia_poster_.png" crc="206886424" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="black canvas-01_poster_u312.png" crc="4005810879" ref="index"/>
   </folder>
-  <file name="index.html" crc="353728786" seo="true" mt="1465630237804" redirect="true"/>
+  <file name="index.html" crc="254661081" seo="true" mt="1468219731249" redirect="true"/>
 </manifest>
