@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1470459260063">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1470459574758">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="393291386" ref="index"/>
-    <file name="nomq_index.css" crc="297622675" ref="index"/>
+    <file name="index.css" crc="4055676380" ref="index"/>
+    <file name="nomq_index.css" crc="4004292898" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -24,6 +24,7 @@
     <file name="redroma-insignia.svg" crc="257097538" seo="true" ref="index"/>
     <file name="redroma-insignia_poster_.png" crc="206886424" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="favicon.ico" crc="119429611" ref="index"/>
   </folder>
-  <file name="index.html" crc="3999793408" seo="true" mt="1470459231532" redirect="true"/>
+  <file name="index.html" crc="3919653131" seo="true" mt="1470459557966" redirect="true"/>
 </manifest>
