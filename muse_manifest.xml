@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1470459574758">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1471742587132">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4055676380" ref="index"/>
-    <file name="nomq_index.css" crc="4004292898" ref="index"/>
+    <file name="index.css" crc="3919824818" ref="index"/>
+    <file name="nomq_index.css" crc="158823012" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
-    <file name="marcellus-sc-v4-latin-regular.eot" crc="4169106927"/>
-    <file name="marcellus-sc-v4-latin-regular.svg" crc="178137573"/>
+    <file name="cinzel-regular.woff" crc="4168119946"/>
+    <file name="cinzel-regular.eot" crc="505467403"/>
+    <file name="cinzel-regular.svg" crc="384052360"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -19,12 +19,11 @@
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="black canvas-01.svg" crc="68001098" ref="index"/>
-    <file name="black canvas-01_poster_u329.png" crc="130515656" ref="index"/>
     <file name="redroma-insignia.svg" crc="257097538" seo="true" ref="index"/>
     <file name="redroma-insignia_poster_.png" crc="206886424" ref="index"/>
+    <file name="black canvas-01.svg" crc="68001098" ref="index"/>
+    <file name="black canvas-01_poster_u306.png" crc="130515656" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="favicon.ico" crc="119429611" ref="index"/>
   </folder>
-  <file name="index.html" crc="3919653131" seo="true" mt="1470459557966" redirect="true"/>
+  <file name="index.html" crc="509046038" seo="true" mt="1471739336240" redirect="true"/>
 </manifest>
