@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1471742587132">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1474005697589">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3919824818" ref="index"/>
-    <file name="nomq_index.css" crc="158823012" ref="index"/>
+    <file name="index.css" crc="11067783" ref="index"/>
+    <file name="nomq_index.css" crc="363608432" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="cinzel-regular.woff" crc="4168119946"/>
@@ -25,5 +25,5 @@
     <file name="black canvas-01_poster_u306.png" crc="130515656" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="509046038" seo="true" mt="1471739336240" redirect="true"/>
+  <file name="index.html" crc="4270429756" seo="true" mt="1474005664793" redirect="true"/>
 </manifest>
