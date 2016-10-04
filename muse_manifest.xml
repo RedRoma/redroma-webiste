@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1475456546220">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="redroma.tech" resolutions="1x" timestamp="1475567143536">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4177199908" ref="index"/>
+    <file name="index.css" crc="3773669869" ref="index"/>
     <file name="nomq_index.css" crc="363608432" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -24,6 +24,7 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="redroma-logo@1x.svg" crc="3937533409" seo="true" ref="index"/>
     <file name="redroma logo@1x_poster_.png" crc="81850393" ref="index"/>
+    <file name="home-favicon.ico" crc="441590867" ref="index"/>
   </folder>
-  <file name="index.html" crc="460361510" seo="true" mt="1475456540425" redirect="true"/>
+  <file name="index.html" crc="134440036" seo="true" mt="1475567137137" redirect="true"/>
 </manifest>
